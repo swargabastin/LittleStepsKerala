@@ -1,0 +1,16 @@
+POST https://localhost:7110/api/daycarecenters
+Content-Type: application/json
+
+{
+  "centerName": "Happy Kids Daycare",
+  "centerType": "Daycare",
+  "district": "Ernakulam",
+  "city": "Kochi",
+  "area": "Edappally",
+  "address": "Edappally, Kochi",
+  "phone": "9999999999",
+  "openingHours": "8 AM - 6 PM",
+  "googleRating": 4.7,
+  "reviewCount": 10,
+  "verified": true
+}

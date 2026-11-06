@@ -1,0 +1,18 @@
+## .NET Core
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Frontend
+LittleStepsKeralaWeb/node_modules/
+LittleStepsKeralaWeb/dist/
+LittleStepsKeralaWeb/.vite/
+*.log
+
+## OS / Temp
+Thumbs.db
+.DS_Store

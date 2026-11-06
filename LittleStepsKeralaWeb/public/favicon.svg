@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="128" fill="#0F172A"/>
+  <circle cx="256" cy="256" r="180" fill="url(#amber-grad)"/>
+  <path d="M256 160C225 160 200 185 200 216C200 240 215 260 236 268C236 295 218 316 195 328C188 332 188 342 196 345C215 352 238 356 256 356C274 356 297 352 316 345C324 342 324 332 317 328C294 316 276 295 276 268C297 260 312 240 312 216C312 185 287 160 256 160Z" fill="#FFFFFF"/>
+  <defs>
+    <linearGradient id="amber-grad" x1="100" y1="100" x2="412" y2="412" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D97706"/>
+      <stop offset="1" stop-color="#EA580C"/>
+    </linearGradient>
+  </defs>
+</svg>
